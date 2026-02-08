@@ -1,10 +1,3 @@
-const CUSTOMER_SITES = {
-    qiqi: {
-        api: 'https://www.qiqidys.com/api.php/provide/vod',
-        name: '七七资源',
-    }
-};
-
 const WORKER_PROXY = 'https://libretv-proxy.wongzen081.workers.dev';
 
 const API_SITES = {
